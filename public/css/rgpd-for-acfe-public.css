@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+  @font-face {
+    font-family: 'hellicopter';
+    src: url('hellicopter-webfont.woff2') format('woff2'),
+         url('hellicopter-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
